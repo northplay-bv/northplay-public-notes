@@ -4,38 +4,44 @@ just copy pasta for whenever i give a shot at joining double d:
 
 
 
-**Portfolio**
+# Portfolio
 You can view my portfolio at https://ryan.west-vercel.app.
 
-**Projects**
+## Projects
 Below are the projects I can speak about publically, though I'm available to speak in person to more in private projects.
 
 Responsible for the software on aprox. 30+ casino deployments (legal independent licensed casino's), you can view at https://casino.ru most of these.
 
 Responsible for casino game aggregation of 127+ game providers and over 12000 games (see https://managedcasino.flow.io to view archive, previously called managedcasino.com. davidkohen.com, datagamble.com).
 
-**My casino Portfolio:**
+## My casino Portfolio:
 In total I must be responsible for 100+ websites and 30+ unique licensed casino's (most Curacao licensed have aprox 3-4 extra 'branded' domains in different themes).
 
 Some public projects I can share: https://blitz.gg, https://icasinoplatform.com (iGIG, which was my main client), https://turbo2spin.com (including all games), https://casino-ra36.com, https://play2x.com,  https://brillx21.gg, https://izzicasino.com, https://getx.bz, https://sol100.casino and many more Curacao casino's.
 
 Some vids of my prev updates to clients/bosses:
-**Bonus battle system (that for example now also has been picked up by BGAMING):**
+
+### Bonus battle system (that for example now also has been picked up by BGAMING):**
+
 https://www.youtube.com/watch?v=YqUIo6NyYNM
 
-**An example of project for automated system that can make any vendor's online slotmachine in configurable offline slotmachine:**
+### An example of project for automated system that can make any vendor's online slotmachine in configurable offline slotmachine:**
+
 https://www.youtube.com/watch?v=texkKHgNHy8
 
-**An example of update video message (on microphone by yours truly:**
+### An example of update video message (on microphone by yours truly:**
+
 https://www.youtube.com/watch?v=dUcCz3TSb9g
 
-**Private owned live casino studio setup (pre-ukraine war):**
+### Private owned live casino studio setup (pre-ukraine war):**
+
 https://www.youtube.com/watch?v=hT5YQ6ImZgk
 
-**Previous boss (stake.com) init interview application request:** (re-create their webapp in react)
+### Previous boss (stake.com) init interview application request:** (re-create their webapp in react)
+
 https://www.youtube.com/watch?v=bw3hwfeJ_7M
 
-**How my mind ticks**
+## How my mind tick
 Selfmade self-tought guy that has love for setting up businesses, passion for gambling industry related projects and unrelentless drive to learn and grow as a person.
 
 Will very much take up iniative and look at product as a whole instead of narrowing down to just the job request. Able to quickly scope project by looking at similar existing products, taking it's good features and combine them to the new product.
