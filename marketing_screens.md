@@ -1,8 +1,16 @@
+videos:
+- Day1 progress state @ 28 Mar 2023:
+[https://www.youtube.com/watch?v=M5KU-3FMi6k](https://www.youtube.com/watch?v=M5KU-3FMi6k)
+
+- Day3 progress state @ 31 Mar 2023 (old state obviously)
+[https://www.youtube.com/watch?v=jM0VFDWhPew](https://www.youtube.com/watch?v=jM0VFDWhPew)
+
 storing screens for later use in sales/marketing website:
 
 # Mini "roadmap"
 ![image](https://user-images.githubusercontent.com/128016319/230669341-51c7f3e0-d688-49ea-a32b-6b410ffd952c.png)
 ![image](https://user-images.githubusercontent.com/128016319/230669062-0ab406e3-0f22-4fc0-9610-84947e7fe4a9.png)
+
 
 # Northplay Linked (to be seperate service 'plugin' for existing provider/casino)
 
